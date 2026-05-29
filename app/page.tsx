@@ -7,7 +7,7 @@ export default function HomePage() {
         Software Engineer
       </p>
       <h1 className="text-4xl sm:text-5xl font-bold tracking-tight leading-tight">
-        Hi, I&apos;m Nakulan S V 👋
+        Hi, I&apos;m Mugunthan.R 👋
       </h1>
       <p className="text-lg text-neutral-600 dark:text-neutral-400 max-w-xl leading-relaxed">
         I build clean, fast, and accessible web applications. Passionate about great developer

@@ -18,7 +18,7 @@ export default function Navbar() {
     <header className="border-b border-neutral-200 dark:border-neutral-800">
       <nav className="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between">
         <Link href="/" className="font-semibold text-lg tracking-tight">
-          Nakulan S V
+          Mugunthan.R
         </Link>
         <ul className="flex gap-6 text-sm">
           {links.map(({ href, label }) => (
